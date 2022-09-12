@@ -1,0 +1,73 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@500&display=swap");
+
+.home_background {
+  width: 100%;
+  min-height: 1045px;
+  background-image: url("../../Images/home_background.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parent {
+  position: relative;
+}
+.childe1 {
+  position: absolute;
+}
+
+.childe2 {
+  position: absolute;
+}
+
+.bt_img {
+  margin-top: -45px;
+  margin-left: 1070px;
+}
+.bt_fon_img {
+  margin-top: -25px;
+  margin-left: 1090px;
+}
+
+.text {
+  padding-top: 384px;
+  margin-left: 405px;
+  width: 540px;
+  height: 79px;
+}
+.default_div {
+  height: 50px;
+}
+.h1 {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 700;
+  font-size: 50px;
+  line-height: 87px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+
+.p {
+  font-family: "Open Sans", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 150%;
+  color: #ffffff;
+}
+
+.btn1 {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 25px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #FFFFFF !important;
+  background-color: #D1A954;
+  border-radius: 0% !important;
+  border-style: none;
+}
