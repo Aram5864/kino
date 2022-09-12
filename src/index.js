@@ -11,7 +11,7 @@ import { initReactI18next } from "react-i18next" // npm i react-i18next;
 import translationsEn from "./i18n/locales/en";
 import translationsRu from "./i18n/locales/ru";
 import translationsAm from "./i18n/locales/am";
-
+// jsfvuwegvfuwgevf
 
 let language = localStorage.getItem("lang");
 
